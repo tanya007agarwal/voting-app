@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Easy_voting</string>
+    <string name="welcome_text">WELCOME TO EASY VOTE</string>
+    <string name="Roll_no">Enrollment Number</string>
+    <string name="Password">Password</string>
+    <string name="Submit">LOG IN</string>
+    <string name="No_account">Don"\'"t have an account "\?"</string>
+    <string name="signup">SIGN UP</string>
+    <string name="admin">Log in as ADMIN</string>
+    <string name="collegeid">ENROLLMENT NO</string>
+    <string name="password">ENTER YOUR PASSWORD</string>
+    <string name="repassword">RE ENTER YOUR PASSWORD</string>
+    <string name="Firstname">First Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="add">Address</string>
+    <string name="number">Phone number</string>
+    <string name="mail">MAIL</string>
+    <string name="create_poll">Create A New Poll</string>
+    <string name="Age">AGE</string>
+    <string name="elctionID">Election ID</string>
+    <string name="election_name">Election Name</string>
+    <string name="elctionDate">Election Date</string>
+    <string name="batch">Batch Eligible</string>
+    <string name="Number">Number of Candidates(Max)</string>
+    <string name="Logs">Hello user! :D</string>
+</resources>

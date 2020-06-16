@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.easy_voting.ListViewPurpose">
+
+    <TextView
+        android:id="@+id/haha"
+        android:layout_width="412dp"
+        android:layout_height="50dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:layout_toEndOf="@+id/Iv1"
+        android:layout_toRightOf="@+id/Iv1"
+        android:text="hahah"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/Iv1"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+
+        android:src="@mipmap/ic_launcher" />
+
+</RelativeLayout>
